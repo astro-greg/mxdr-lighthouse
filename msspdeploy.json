@@ -7,14 +7,14 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "Astro MXDR Solution"
+            "defaultValue": "Astro MXDR"
         },
         "mspOfferDescription": {
             "type": "string",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "Astro MXDR Solution"
+            "defaultValue": "Astro MXDR"
         },
         "managedByTenantId": {
             "type": "string",
@@ -922,7 +922,7 @@
                                 "forceUpdateTag": "1",
                                 "azPowerShellVersion": "3.0",
                                 "arguments": "[concat('-Workspace ', parameters('workspaceName'), ' -ResourceGroup ', resourceGroup().name, ' -Connectors ', parameters('dataConnectorsList'))]",
-                                "primaryScriptUri": "https://raw.githubusercontent.com/PatriotConsultingTech/mxdr-lighthouse/main/azure-sentinel/MSSPVersion/Scripts/EnableRules.ps1",
+                                "primaryScriptUri": "https://raw.githubusercontent.com/astro-greg/mxdr-lighthouse/refs/heads/main/EnableRules.ps1",
                                 "supportingScriptUris": [],
                                 "timeout": "PT30M",
                                 "cleanupPreference": "OnSuccess",
