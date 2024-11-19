@@ -155,7 +155,7 @@
             "metadata": {
                 "description": "The location of resources"
             },
-            "defaultValue": "https://raw.githubusercontent.com/PatriotConsultingTech/mxdr-lighthouse/main/Tools/"
+            "defaultValue": "https://github.com/astro-greg/mxdr-lighthouse"
         }
     },
     "variables": {
