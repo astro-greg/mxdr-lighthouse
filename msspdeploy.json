@@ -29,7 +29,7 @@
                 "description": "Specify an array of objects, containing tuples of Azure Active Directory principalId, a Azure roleDefinitionId, and an optional principalIdDisplayName. The roleDefinition specified is granted to the principalId in the provider's Active Directory and the principalIdDisplayName is visible to customers."
             },
             "defaultValue": [
-                {
+           {
                     "principalId": "30044a1d-4833-4f7a-8911-85999ca08e59",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
                     "principalIdDisplayName": "MXDR_SOC"
@@ -345,7 +345,7 @@
                             "type": "string",
                             "defaultValue": "[subscription().subscriptionId]",
                             "metadata": {
-                                "description": "Subscription Id to monitor"
+                                "description": "Sbscription Id to monitor"
                             }
                         },
                         "mcasDiscoveryLogs": {
