@@ -30,20 +30,50 @@
             },
             "defaultValue": [
            {
-                    "principalId": "30044a1d-4833-4f7a-8911-85999ca08e59",
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
-                    "principalIdDisplayName": "MXDR_SOC"
-                },
-                {
-                  "principalId": "30044a1d-4833-4f7a-8911-85999ca08e59",
-                  "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade",
-                  "principalIdDisplayName": "MXDR_SOC"
-                },
-                {
-                  "principalId": "30044a1d-4833-4f7a-8911-85999ca08e59",
-                  "roleDefinitionId": "fb1c8493-542b-48eb-b624-b4c8fea62acd",
-                  "principalIdDisplayName": "MXDR_SOC"
-                }
+    "principalId": "30044a1d-4833-4f7a-8911-85999ca08e59",
+    "roleDefinitionId": "3e150937-b8fe-4cfb-8069-0eaf05ecd056",
+    "principalIdDisplayName": "MXDR_SOC"
+   },
+   {
+    "principalId": "30044a1d-4833-4f7a-8911-85999ca08e59",
+    "roleDefinitionId": "51d6186e-6489-4900-b93f-92e23144cca5",
+    "principalIdDisplayName": "MXDR_SOC"
+   },
+   {
+    "principalId": "2876911a-210d-4efa-bb79-72cb4590f864",
+    "roleDefinitionId": "8d289c81-5878-46d4-8554-54e1e3d8b5cb",
+    "principalIdDisplayName": "MXDR_Management"
+   },
+   {
+    "principalId": "ebb93a4d-a3ff-49ce-b1d0-9b7a1ccc0a61",
+    "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade",
+    "principalIdDisplayName": "MXDR_Engineers"
+   },
+   {
+    "principalId": "ebb93a4d-a3ff-49ce-b1d0-9b7a1ccc0a61",
+    "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e",
+    "principalIdDisplayName": "MXDR_Engineers"
+   },
+   {
+    "principalId": "ebb93a4d-a3ff-49ce-b1d0-9b7a1ccc0a61",
+    "roleDefinitionId": "749f88d5-cbae-40b8-bcfc-e573ddc772fa",
+    "principalIdDisplayName": "MXDR_Engineers"
+   },
+   {
+    "principalId": "ebb93a4d-a3ff-49ce-b1d0-9b7a1ccc0a61",
+    "roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293",
+    "principalIdDisplayName": "MXDR_Engineers"
+   },
+   {
+    "principalId": "ebb93a4d-a3ff-49ce-b1d0-9b7a1ccc0a61",
+    "roleDefinitionId": "1c9b6475-caf0-4164-b5a1-2142a7116f4b",
+    "principalIdDisplayName": "MXDR_Engineers"
+   },
+   {
+    "principalId": "a2757efd-6b43-4188-8521-755d355a9ec5", 
+    "roleDefinitionId": "f4c81013-99ee-4d62-a7ee-b3f1f648599a",
+    "principalIdDisplayName": "Microsoft Sentinel Automation Contributors" 
+   }
             ]
         },
         "rgName": {
